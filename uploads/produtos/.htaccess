@@ -1,0 +1,2 @@
+# Impedir execução de PHP dentro da pasta de uploads (segurança)
+php_flag engine off
